@@ -1466,3 +1466,100 @@ Caused by: com.google.gson.stream.MalformedJsonException: Unterminated array at 
 [04Jun2025 21:54:25.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: michifu_xd123 has made the advancement [Sweet Dreams]
 [04Jun2025 21:54:30.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: michifu_xd123 has made the advancement [First Day]
 [04Jun2025 21:56:50.407] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[04Jun2025 21:59:15.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <michifu_xd123> asd
+[04Jun2025 22:00:03.062] [Worker-Main-11/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity CaveSpider['Cave Spider'/11444, l='ServerLevel[world]', x=936.50, y=-28.00, z=-310.50] as it would cause deadlock
+[04Jun2025 22:00:03.063] [Worker-Main-11/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/11446, l='ServerLevel[world]', x=936.50, y=-41.00, z=-309.50] as it would cause deadlock
+[04Jun2025 22:00:03.962] [Worker-Main-11/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[04Jun2025 22:00:10.809] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[04Jun2025 22:00:26.869] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5020ms or 100 ticks behind
+[04Jun2025 22:00:45.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [michifu_xd123: Gamerule keepInventory is now set to: true]
+[04Jun2025 22:00:49.999] [Worker-Main-10/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/12249, l='ServerLevel[world]', x=982.50, y=-28.00, z=-423.50] as it would cause deadlock
+[04Jun2025 22:01:29.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [michifu_xd123: Gamerule playersSleepingPercentage is now set to: 1]
+[04Jun2025 22:01:30.287] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[04Jun2025 22:01:30.598] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2249ms or 44 ticks behind
+[04Jun2025 22:01:32.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: michifu_xd123 died
+[04Jun2025 22:01:33.876] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[04Jun2025 22:01:42.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <michifu_xd123> asd
+[04Jun2025 22:01:51.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <michifu_xd123> asd
+[04Jun2025 22:01:56.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <michifu_xd123> puta madre
+[04Jun2025 22:02:45.970] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[04Jun2025 22:02:54.557] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[04Jun2025 22:04:20.912] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-58, z=31}
+[04Jun2025 22:04:20.915] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=6, y=-58, z=31}
+[04Jun2025 22:04:20.918] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-58, z=43}
+[04Jun2025 22:04:20.918] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=6, y=-58, z=43}
+[04Jun2025 22:04:20.919] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=2, y=-59, z=40}
+[04Jun2025 22:04:20.919] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=2, y=-59, z=33}
+[04Jun2025 22:04:20.921] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=7, y=-59, z=40}
+[04Jun2025 22:04:20.922] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=7, y=-59, z=33}
+[04Jun2025 22:04:22.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [michifu_xd123: Set own game mode to Creative Mode]
+[04Jun2025 22:04:33.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: michifu_xd123 died
+[04Jun2025 22:04:57.958] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[04Jun2025 22:05:00.104] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[04Jun2025 22:05:00.105] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[04Jun2025 22:07:01.062] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[04Jun2025 22:08:59.497] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:village_plains took 42 ms
+[04Jun2025 22:09:13.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [michifu_xd123: Teleported michifu_xd123 to -383.500000, 140.756729, 272.500000]
+[04Jun2025 22:09:13.468] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8919ms or 178 ticks behind
+[04Jun2025 22:10:19.954] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-58, z=31}
+[04Jun2025 22:10:19.955] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=6, y=-58, z=31}
+[04Jun2025 22:10:19.956] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-58, z=43}
+[04Jun2025 22:10:19.956] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=6, y=-58, z=43}
+[04Jun2025 22:10:19.956] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=2, y=-59, z=40}
+[04Jun2025 22:10:19.956] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=2, y=-59, z=33}
+[04Jun2025 22:10:19.957] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=7, y=-59, z=40}
+[04Jun2025 22:10:19.957] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=7, y=-59, z=33}
+[04Jun2025 22:11:40.113] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[04Jun2025 22:11:46.722] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombiekit:uv_lamp_entity
+[04Jun2025 22:11:46.794] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[04Jun2025 22:11:46.794] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[04Jun2025 22:11:46.795] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[04Jun2025 22:11:46.795] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[04Jun2025 22:11:46.795] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[04Jun2025 22:11:46.796] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[04Jun2025 22:11:46.796] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[04Jun2025 22:11:46.796] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[04Jun2025 22:11:46.797] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[04Jun2025 22:11:46.797] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[04Jun2025 22:11:46.797] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[04Jun2025 22:11:46.798] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[04Jun2025 22:11:47.294] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[04Jun2025 22:11:47.295] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[04Jun2025 22:11:47.295] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[04Jun2025 22:11:47.296] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[04Jun2025 22:11:47.296] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[04Jun2025 22:11:47.296] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[04Jun2025 22:11:47.296] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[04Jun2025 22:11:47.297] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[04Jun2025 22:11:47.297] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[04Jun2025 22:11:47.297] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[04Jun2025 22:11:47.297] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[04Jun2025 22:11:47.298] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[04Jun2025 22:11:47.298] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[04Jun2025 22:12:42.704] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:village_desert took 5011 ms
+[04Jun2025 22:12:42.706] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5006ms or 100 ticks behind
+[04Jun2025 22:13:04.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [michifu_xd123: Teleported michifu_xd123 to 1088.500000, 112.118157, -1791.500000]
+[04Jun2025 22:13:06.613] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8914ms or 178 ticks behind
+[04Jun2025 22:13:44.262] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=203, y=48, z=159}
+[04Jun2025 22:14:29.481] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.simple.IndexedMessageCodec/SIMPLENET]: Received empty payload on channel fml:handshake
+[04Jun2025 22:14:29.560] [Netty Epoll Server IO #0/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@383537ab[id=<null>,name=crisrob,properties={},legacy=false] (/127.181.125.150:45035): Unexpected custom data from client
+[04Jun2025 22:14:29.577] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@383537ab[id=<null>,name=crisrob,properties={},legacy=false] (/127.181.125.150:45035) lost connection: Unexpected custom data from client
+[04Jun2025 22:14:46.021] [Netty Epoll Server IO #1/ERROR] [net.minecraftforge.network.simple.IndexedMessageCodec/SIMPLENET]: Received empty payload on channel fml:handshake
+[04Jun2025 22:14:46.023] [Netty Epoll Server IO #1/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@265433e0[id=<null>,name=crisrob,properties={},legacy=false] (/127.181.125.150:54769): Unexpected custom data from client
+[04Jun2025 22:14:46.033] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@265433e0[id=<null>,name=crisrob,properties={},legacy=false] (/127.181.125.150:54769) lost connection: Unexpected custom data from client
+[04Jun2025 22:15:03.432] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/21568, l='ServerLevel[world]', x=992.74, y=83.25, z=-1779.60] died, message: 'Villager was slain by Runner'
+[04Jun2025 22:15:15.388] [Worker-Main-10/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/22478, l='ServerLevel[world]', x=940.50, y=22.00, z=-2005.50] as it would cause deadlock
+[04Jun2025 22:15:39.285] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/21355, l='ServerLevel[world]', x=1059.04, y=92.00, z=-1809.09] died, message: 'Librarian was slain by Runner'
+[04Jun2025 22:16:14.038] [Worker-Main-11/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Chicken['Chicken'/22878, l='ServerLevel[world]', x=841.61, y=-5.00, z=-1733.47] as it would cause deadlock
+[04Jun2025 22:17:06.875] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/21348, l='ServerLevel[world]', x=1077.78, y=77.18, z=-1822.43] died, message: 'Farmer was slain by Zombie'
+[04Jun2025 22:17:07.235] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/21354, l='ServerLevel[world]', x=1085.88, y=77.00, z=-1796.19] died, message: 'Librarian was slain by Runner'
+[04Jun2025 22:17:46.189] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.simple.IndexedMessageCodec/SIMPLENET]: Received empty payload on channel fml:handshake
+[04Jun2025 22:17:46.190] [Netty Epoll Server IO #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@20fc26cf[id=<null>,name=crisrob,properties={},legacy=false] (/127.181.125.150:53029): Unexpected custom data from client
+[04Jun2025 22:17:46.225] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@20fc26cf[id=<null>,name=crisrob,properties={},legacy=false] (/127.181.125.150:53029) lost connection: Unexpected custom data from client
+[04Jun2025 22:17:46.617] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: michifu_xd123 moved too quickly! 0.0,-10.15917216354893,0.0
+[04Jun2025 22:18:05.455] [Worker-Main-10/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:minecraft_empty
+[04Jun2025 22:18:05.506] [Worker-Main-10/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:minecraft_empty
+[04Jun2025 22:18:10.612] [Worker-Main-10/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[04Jun2025 22:18:10.613] [Worker-Main-10/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/23827, l='ServerLevel[world]', x=1021.50, y=-53.00, z=-2111.50] as it would cause deadlock
+[04Jun2025 22:18:11.826] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: michifu_xd123 moved too quickly! 0.0,-10.67310951598553,0.0
+[04Jun2025 22:18:24.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [michifu_xd123: Set own game mode to Survival Mode]
