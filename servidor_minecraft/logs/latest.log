@@ -1453,3 +1453,16 @@ Caused by: com.google.gson.stream.MalformedJsonException: Unterminated array at 
 [04Jun2025 21:46:53.777] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2477ms or 49 ticks behind
 [04Jun2025 21:48:02.133] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
 [04Jun2025 21:48:09.902] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2053ms or 41 ticks behind
+[04Jun2025 21:48:29.799] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2049ms or 40 ticks behind
+[04Jun2025 21:49:20.029] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: michifu_xd123 moved wrongly!
+[04Jun2025 21:49:36.158] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[04Jun2025 21:49:44.126] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
+[04Jun2025 21:49:55.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: michifu_xd123 has made the advancement [Monster Hunter]
+[04Jun2025 21:52:43.261] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[04Jun2025 21:52:51.694] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[04Jun2025 21:53:05.759] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[04Jun2025 21:53:12.423] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[04Jun2025 21:53:12.427] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[04Jun2025 21:54:25.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: michifu_xd123 has made the advancement [Sweet Dreams]
+[04Jun2025 21:54:30.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: michifu_xd123 has made the advancement [First Day]
+[04Jun2025 21:56:50.407] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind

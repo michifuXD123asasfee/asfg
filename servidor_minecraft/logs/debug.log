@@ -13783,3 +13783,40 @@ Caused by: com.google.gson.stream.MalformedJsonException: Unterminated array at 
 [04Jun2025 21:46:53.777] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2477ms or 49 ticks behind
 [04Jun2025 21:48:02.133] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
 [04Jun2025 21:48:09.902] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2053ms or 41 ticks behind
+[04Jun2025 21:48:29.799] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2049ms or 40 ticks behind
+[04Jun2025 21:49:20.029] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: michifu_xd123 moved wrongly!
+[04Jun2025 21:49:26.951] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[04Jun2025 21:49:33.798] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[04Jun2025 21:49:36.158] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[04Jun2025 21:49:38.850] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:regular/glacial/interior1
+[04Jun2025 21:49:38.931] [Worker-Main-11/DEBUG] [ModernFix/]: Structure apocalypsenow:military is being run through DFU (hash a953b19f955893902398aa5f60725bc4c5f7a2bde6e2815b64f9102e96a06f91), this will cause launch time delays
+[04Jun2025 21:49:43.409] [Worker-Main-11/DEBUG] [ModernFix/]: Structure nova_structures:wild_ruin/wild_ruin_22 is being run through DFU (hash a7afc0837fdc14b167ec6c4a39c103bb0f1eaa6db91b09c97bc3827ffa42ae09), this will cause launch time delays
+[04Jun2025 21:49:44.126] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
+[04Jun2025 21:49:48.023] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:mangrove_witch_hut/mangrove_witch_hut_1
+[04Jun2025 21:49:55.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: michifu_xd123 has made the advancement [Monster Hunter]
+[04Jun2025 21:49:57.178] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_19
+[04Jun2025 21:51:17.495] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jun2025 21:51:17.730] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jun2025 21:51:36.932] [Worker-Main-11/DEBUG] [ModernFix/]: Structure nova_structures:bunker/bunker_enterance_3 is being run through DFU (hash f22288b39db92ea324dc997045f148ec075d233d30bbcd1c8782fdd7710e4d2c), this will cause launch time delays
+[04Jun2025 21:52:27.863] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_jungle/jungle_village_center2
+[04Jun2025 21:52:27.880] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_swamp/swamp_village_center2
+[04Jun2025 21:52:43.261] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[04Jun2025 21:52:51.694] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[04Jun2025 21:52:53.870] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:mangrove_witch_hut/mangrove_witch_hut_3
+[04Jun2025 21:53:03.414] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of dynamictrees:village/plains/town_centers/plains_meeting_point_3
+[04Jun2025 21:53:05.759] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[04Jun2025 21:53:09.286] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:regular/glacial/interior216
+[04Jun2025 21:53:12.423] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[04Jun2025 21:53:12.427] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[04Jun2025 21:54:25.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: michifu_xd123 has made the advancement [Sweet Dreams]
+[04Jun2025 21:54:30.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: michifu_xd123 has made the advancement [First Day]
+[04Jun2025 21:56:21.481] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jun2025 21:56:21.570] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jun2025 21:56:35.175] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of zombiekit:shelter/pond
+[04Jun2025 21:56:38.143] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of zombie_extreme:lighthouse
+[04Jun2025 21:56:50.407] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[04Jun2025 21:57:46.759] [Worker-Main-10/DEBUG] [ModernFix/]: Structure apocalypsenow:police is being run through DFU (hash 51601e34ad0fba22f7a18cb0388fbc9b946e7431e7324384e5bd8157f6dcce1e), this will cause launch time delays
+[04Jun2025 21:58:09.033] [Worker-Main-10/DEBUG] [ModernFix/]: Structure nova_structures:wild_ruin/wild_ruin_5 is being run through DFU (hash 9cd4bda67dc02016e5967762c45c49cc3d6394c29b4e12457c7e1a493c44a983), this will cause launch time delays
+[04Jun2025 21:58:09.173] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:ruins1
+[04Jun2025 21:58:19.000] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_house_dark_oak
+[04Jun2025 21:58:21.871] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_8b
