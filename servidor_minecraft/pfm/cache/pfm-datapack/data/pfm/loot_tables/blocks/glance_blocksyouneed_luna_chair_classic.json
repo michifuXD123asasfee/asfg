@@ -1,0 +1,15 @@
+{
+  "pools": [
+    {
+      "name": "glance_blocksyouneed_luna_chair_classic",
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "pfm:glance_blocksyouneed_luna_chair_classic"
+        }
+      ]
+    }
+  ]
+}
